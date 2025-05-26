@@ -4,7 +4,7 @@ Praying on Biotech companies' downfall to generate profit.
 
 Most Biotech companies and startups aspire to create revolutionary treatments but very few actually succeed because groundbreaking innovation is rare and clinical trials have a high failure rate (3 stages of possible failures).
 
-#Based on multiple studies on clinical trials
+###Based on multiple studies on clinical trials
 
 phase 1 -> phase 2 : success rate of ~63%
 phase 2 -> phase 3 : success rate of ~30%
@@ -17,7 +17,7 @@ P(A) = 0.10962 -> ~0.11 or 11%
 
 According to the result, 11% or 1 in 10 drugs that start phase 1 ever make it to market approval, meaning ~90% ultimately fail somewhere along the pipeline. - see Disclaimer*
 
-#Conclusion
+###Conclusion
 
 Trading on their failure gives us a ~90% win rate. - see Discalimer**
 
