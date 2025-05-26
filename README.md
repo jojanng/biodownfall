@@ -1,6 +1,6 @@
 Praying on Biotech companies' downfall to generate profit
 
-##Theory
+## Theory
 
 Most Biotech companies and startups aspire to create revolutionary treatments but very few actually succeed because groundbreaking innovation is rare and clinical trials have a high failure rate (3 stages of possible failures).
 
@@ -21,6 +21,9 @@ According to the result, 11% or 1 in 10 drugs that start phase 1 ever make it to
 
 Trading on their failure gives us a ~90% win rate. - see Discalimer (b)
 
+
+## Backtest results
+Empty
 
 ## Disclaimer
 
