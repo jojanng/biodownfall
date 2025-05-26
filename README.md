@@ -1,4 +1,4 @@
-Praying on Biotech companies' downfall to generate profit
+Python project based on praying on Biotech companies' downfall to generate profit
 
 ## Theory
 
